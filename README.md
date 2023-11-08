@@ -85,9 +85,9 @@
 <h2 style="color: #ba6771;">Connect with me 👇</h2>
 
 <p align="center">
-  <a href="https://discordapp.com/users/last#6130"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
-  <a href="https://wendellast.github.io/Config/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://t.me/Lasstll"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram"/></a>
+  
+  <a href="https://jehskt.github.io/Config/"><img src="https://raw.githubusercontent.com/jehskt/jehskt/main/img/linkedin.png" alt="Linkedin"/></a>
+  
 </p>
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
