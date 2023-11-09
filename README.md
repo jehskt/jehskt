@@ -38,8 +38,6 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
   </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   
   <a href="https://docs.python.org/3/library/tkinter.html">
     <img src="https://img.shields.io/badge/Tkinter-FFD800?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
@@ -56,9 +54,7 @@
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-27338e?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
   </a>
