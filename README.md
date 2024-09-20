@@ -79,7 +79,10 @@
 
 <p align="center">
   
-  <a href="https://jehskt.github.io/Config/"><img src="https://raw.githubusercontent.com/jehskt/jehskt/main/img/linkedin.png" alt="Linkedin"/></a>
+ <a href="https://www.linkedin.com/in/seu-perfil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
   
 </p>
 
